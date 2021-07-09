@@ -1,28 +1,26 @@
-[
-    {
-        "UUID-db": 1,
-        "UUID": 123456,
-        "ownerId": 999,
-        "parentUUID": 000000,
-        "createdAt": "2021-01-07",
-        "updatedAt": "2021-01-04",
-        "shortText": "Zugangsschutz",
-        "longText": "Im Sinne des physikalischen Zugriffsschutzes ...",
-        "question": "Gibt es einen Zugangsschutz?",
-        "delegated": false,
-        "sub": [
-            {
-                "uuid-db": 2,
-                "uuid": 654321,
-                "ownerId": 666,
-                "parentUUID": 123456,
-                "createdAt": "2021-01-07",
-                "updatedAt": "2021-01-04",
-                "shortText": "Zugangsschutz",
-                "longText": "Im Sinne des physikalischen Zugriffsschutzes ...",
-                "question": "Gibt es einen Zugangsschutz?",
-                "delegated": true,
-            }
-        ]
-    }
-]
+{
+    "UUID-db": 1,
+    "UUID": 123456,
+    "ownerId": 999,
+    "parentUUID": 000000,
+    "createdAt": "2021-01-07",
+    "updatedAt": "2021-01-04",
+    "shortText": "Zugangsschutz",
+    "longText": "Im Sinne des physikalischen Zugriffsschutzes ...",
+    "question": "Gibt es einen Zugangsschutz?",
+    "delegated": false,
+    "sub": [
+        {
+            "uuid-db": 2,
+            "uuid": 654321,
+            "ownerId": 666,
+            "parentUUID": 123456,
+            "createdAt": "2021-01-07",
+            "updatedAt": "2021-01-04",
+            "shortText": "Zugangsschutz",
+            "longText": "Im Sinne des physikalischen Zugriffsschutzes ...",
+            "question": "Gibt es einen Zugangsschutz?",
+            "delegated": true,
+        }
+    ]
+}
