@@ -1,56 +1,56 @@
 {
-  "units":[
-     {
-        "id":1,
-        "uuid":123456,
-        "ownerId":999,
-        "parentuuid":0,
-        "createdat":"2021-01-07",
-        "updatetat":"2021-01-04",
-        "shorttext":"Zugangsschutz",
-        "longText":"Im Sinne des physikalischen Zugriffsschutzes ...",
-        "question":"Gibt es einen Zugangsschutz?",
-        "delegated":false,
-        "sub":[
-           {
-              "id":3,
-              "uuid":654321,
-              "ownerId":43,
-              "parentuuid":0,
-              "createdat":"2021-01-07",
-              "updatetat":"2021-01-04",
-              "shorttext":"Zugangsschutz",
-              "longText":"Im Sinne des physikalischen Zugriffsschutzes ...",
-              "question":"Gibt es einen Zugangsschutz?",
-              "delegated":true
-           }
-        ]
-     },
-     {
-        "id":2,
-        "uuid":234567,
-        "ownerId":999,
-        "parentuuid":0,
-        "createdat":"2021-01-07",
-        "updatetat":"2021-01-04",
-        "shorttext":"Zugangsschutz",
-        "longText":"Im Sinne des physikalischen Zugriffsschutzes ...",
-        "question":"Gibt es einen Zugangsschutz?",
-        "delegated":false,
-        "sub":[
-           {
-              "id":4,
-              "uuid":765432,
-              "ownerId":2222,
-              "parentuuid":0,
-              "createdat":"2021-01-07",
-              "updatetat":"2021-01-04",
-              "shorttext":"Zugangsschutz",
-              "longText":"Im Sinne des physikalischen Zugriffsschutzes ...",
-              "question":"Gibt es einen Zugangsschutz?",
-              "delegated":false
-           }
-        ]
-     }
+  "units": [
+    {
+      "id": 1,
+      "uuid": 123456,
+      "ownerId": 999,
+      "parentuuid": 0,
+      "createdat": "2021-01-07",
+      "updatetat": "2021-01-04",
+      "shorttext": "Zugangsschutz",
+      "longText": "Im Sinne des physikalischen Zugriffsschutzes ...",
+      "question": "Gibt es einen Zugangsschutz?",
+      "delegated": false,
+      "sub": [
+        {
+          "id": 3,
+          "uuid": 654321,
+          "ownerId": 43,
+          "parentuuid": 0,
+          "createdat": "2021-01-07",
+          "updatetat": "2021-01-04",
+          "shorttext": "Zugangsschutz",
+          "longText": "Im Sinne des physikalischen Zugriffsschutzes ...",
+          "question": "Gibt es einen Zugangsschutz?",
+          "delegated": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "uuid": 234567,
+      "ownerId": 999,
+      "parentuuid": 0,
+      "createdat": "2021-01-07",
+      "updatetat": "2021-01-04",
+      "shorttext": "Zugangsschutz",
+      "longText": "Im Sinne des physikalischen Zugriffsschutzes ...",
+      "question": "Gibt es einen Zugangsschutz?",
+      "delegated": false,
+      "sub": [
+        {
+          "id": 4,
+          "uuid": 765432,
+          "ownerId": 2222,
+          "parentuuid": 0,
+          "createdat": "2021-01-07",
+          "updatetat": "2021-01-04",
+          "shorttext": "Zugangsschutz",
+          "longText": "Im Sinne des physikalischen Zugriffsschutzes ...",
+          "question": "Gibt es einen Zugangsschutz?",
+          "delegated": false
+        }
+      ]
+    }
   ]
 }
