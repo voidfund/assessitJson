@@ -2,7 +2,7 @@
     "UUID-db": 1,
     "UUID": 123456,
     "ownerId": 999,
-    "parentUUID": 000000,
+    "parentUUID": 0,
     "createdAt": "2021-01-07",
     "updatedAt": "2021-01-04",
     "shortText": "Zugangsschutz",
@@ -20,7 +20,7 @@
             "shortText": "Zugangsschutz",
             "longText": "Im Sinne des physikalischen Zugriffsschutzes ...",
             "question": "Gibt es einen Zugangsschutz?",
-            "delegated": true,
+            "delegated": true
         }
     ]
 }
