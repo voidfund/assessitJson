@@ -10,8 +10,19 @@
       "shorttext": "Zugangsschutz",
       "longText": "Im Sinne des physikalischen Zugriffsschutzes ...",
       "question": "Gibt es einen Zugangsschutz?",
-      "delegated": false,
-      "sub": [
+      "stats": {
+        "open": {
+          "own": 2,
+          "delegated": 5,
+          "review": 7
+        },
+        "done": {
+          "answered": 9,
+          "postponed": 2,
+          "n_a": 1
+        }
+      },
+      "children": [
         {
           "id": 3,
           "uuid": 654321,
@@ -22,9 +33,44 @@
           "shorttext": "Zugangsschutz",
           "longText": "Im Sinne des physikalischen Zugriffsschutzes ...",
           "question": "Gibt es einen Zugangsschutz?",
-          "delegated": true
+          "stats": {
+            "open": {
+              "own": 2,
+              "delegated": 5,
+              "review": 7
+            },
+            "done": {
+              "answered": 9,
+              "postponed": 2,
+              "n_a": 1
+            }
+          }
         }
       ]
+    },
+    {
+      "id": 3,
+      "uuid": 654321,
+      "ownerId": 43,
+      "parentuuid": 0,
+      "createdat": "2021-01-07",
+      "updatetat": "2021-01-04",
+      "shorttext": "Zugangsschutz",
+      "longText": "Im Sinne des physikalischen Zugriffsschutzes ...",
+      "question": "Gibt es einen Zugangsschutz?",
+      "stats": {
+        "open": {
+          "own": 2,
+          "delegated": 5,
+          "review": 7
+        },
+        "done": {
+          "answered": 9,
+          "postponed": 2,
+          "n_a": 1
+        }
+      },
+      "children": []
     },
     {
       "id": 2,
@@ -36,8 +82,19 @@
       "shorttext": "Zugangsschutz",
       "longText": "Im Sinne des physikalischen Zugriffsschutzes ...",
       "question": "Gibt es einen Zugangsschutz?",
-      "delegated": false,
-      "sub": [
+      "stats": {
+        "open": {
+          "own": 2,
+          "delegated": 5,
+          "review": 7
+        },
+        "done": {
+          "answered": 9,
+          "postponed": 2,
+          "n_a": 1
+        }
+      },
+      "children": [
         {
           "id": 4,
           "uuid": 765432,
