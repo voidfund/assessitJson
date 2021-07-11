@@ -87,42 +87,6 @@
           }
         },
         "children": []
-      },
-      {
-        "id": "f66677c6-ad77-467d-be00-4ee1043d8915",
-        "ownermail": "Kelli.Schiller@example.org",
-        "body": "Vero incidunt minus cumque est quidem accusantium maxime voluptas ipsam. Est rem modi odit.",
-        "stats": {
-          "open": {
-            "own": 1,
-            "delegated": 67,
-            "review": 11
-          },
-          "done": {
-            "answered": 38,
-            "postponed": 72,
-            "n_a": 18
-          }
-        },
-        "children": []
-      },
-      {
-        "id": "11bc3795-fd0c-4c69-8b59-2ef837c1f865",
-        "ownermail": "Sandy77@example.com",
-        "body": "Facilis aut et inventore veniam quo ut sit. Est officiis et quaerat reiciendis libero aut nihil.",
-        "stats": {
-          "open": {
-            "own": 37,
-            "delegated": 13,
-            "review": 9
-          },
-          "done": {
-            "answered": 2,
-            "postponed": 14,
-            "n_a": 25
-          }
-        },
-        "children": []
       }
     ]
   },
